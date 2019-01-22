@@ -11,7 +11,7 @@
 # 2019 - calendar #
 
 
-* Jan - Mac, Go CLI
+* Jan - McEniry ("Writing Command Line Tools in Go")
 * Feb
 * Mar - Scale
 * Apr
