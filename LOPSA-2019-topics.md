@@ -11,18 +11,18 @@
 # 2019 - calendar #
 
 
-Jan - Mac, Go CLI
-Feb
-Mar - Scale
-Apr
-May
-Jun
-Jul
-Aug - DEFCON
-Sep
-Oct - USENIX LISA
-Nov
-Dec
+* Jan - Mac, Go CLI
+* Feb
+* Mar - Scale
+* Apr
+* May
+* Jun
+* Jul
+* Aug - DEFCON
+* Sep
+* Oct - USENIX LISA
+* Nov
+* Dec
 
 
 
